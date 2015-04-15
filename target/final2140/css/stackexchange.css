@@ -1,0 +1,109 @@
+.search-inline{
+	width: 430px;
+}
+
+.div-search-box{
+	margin-top: 20px;
+}
+
+.div-search-box .logo{
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.div-search-box .logo img{
+	height: 200px;
+	margin-left: -50px;
+}
+
+.btn-radio {
+	width: 100%;
+}
+.img-radio {
+	opacity: 0.1;
+	margin-bottom: 5px;
+	width: 100%;
+	height: 60px;
+}
+
+.space-20 {
+    margin-top: 20px;
+}
+
+.result_container{
+
+}
+
+.x-item{
+	padding: 8px;
+	line-height: 1.42857143;
+	vertical-align: top;
+	border-top: 1px solid #ddd;
+}
+
+.tag_line{
+	
+	margin-left: 30px;
+	margin-right: 30px;
+	border-bottom: 1px solid black;
+}
+
+.content_col{
+	margin-left: 30px;
+}
+
+.tags{
+	text-align: left;
+	display: inline;
+}
+
+.score{
+	display: inline;
+	float: right;
+	margin-right: 30px;
+}
+
+.answer_status{
+	display: inline;
+	background-color: rgb(9, 211, 9);
+}
+
+.inner_table{
+	margin-left: 30px;
+	width: 100%;
+	table-layout: fixed;
+}
+
+.inner_table td{
+	vertical-align:text-top;
+}
+
+.inner_table td{
+	overflow: hidden;
+	padding-right: 15px;
+	word-wrap: break-word;
+}
+.bodyth{
+	margin-left: 10px;
+}
+
+.inner_table th{
+	padding-right: 15px;
+}
+
+.x-item .row{
+	padding-bottom: 5px;
+}
+
+#actions{
+	text-align: right;
+	padding-right: 50px;
+}
+
+#btId{
+	padding-right: 70px;
+}
+
+#scoreId{
+	display: inline;
+}
